@@ -1,0 +1,5 @@
+1. Make sure to have mysql server installed on your local machine on port 3306
+2. execute build/test.sql script in mysql database named "test" 
+3. open command prompt and navigate to build folder
+4. run java command as follows
+java -jar employee-api-1.0.jar

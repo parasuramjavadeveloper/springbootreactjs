@@ -1,0 +1,8 @@
+1. Make sure to have node installed on your machine
+2. open command prompt
+3. execute npm command as follows
+npm install
+4. start npm as follows
+npm start
+5. It will automatically opens browser
+6. Both login name and passowrd are : admin
